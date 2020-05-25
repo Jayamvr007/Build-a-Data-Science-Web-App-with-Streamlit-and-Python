@@ -5,10 +5,10 @@ on map ,3-D map,charts and histograms.
 
 
 OBJECTIVES:
-     Turn Simple Python Scripts into Web Apps
-     Load the Motor Vehicle Collisions Data
-     Visualize Data on a Map
-     Filtering Data and Interactive Tables
-     Plot Filtered Data on a 3D Interactive Map
-     Charts and Histograms
-     Select Data Using Dropdowns
+     1.Turn Simple Python Scripts into Web Apps
+     2.Load the Motor Vehicle Collisions Data
+     3.Visualize Data on a Map
+     4.Filtering Data and Interactive Tables
+     5.Plot Filtered Data on a 3D Interactive Map
+     6.Charts and Histograms
+     7.Select Data Using Dropdowns
